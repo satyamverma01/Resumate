@@ -1,0 +1,6 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Story+Script&display=swap');
+
+.story-script {
+  font-family: 'Story Script', cursive;
+}
