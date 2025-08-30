@@ -2,7 +2,7 @@
 
   <h1><strong>ResumAI</strong></h1>
 
-  <img src="https://github.com/kishoraman21/ResumAI/blob/32a75f579a80361c24cb1ebea9d7541fda69c088/Screenshot%202025-08-28%20015240.png" alt="ResumAI Demo" width="600"/>
+  <img src="https://github.com/satyamverma01/Resumate/blob/104b89e71f7de2536d26ad981b9bfdf8845b2fcc/Screenshot%202025-08-28%20015240.png" alt="ResumAI Demo" width="600"/>
 
   <p><em>AI-powered Resume Generator built with MERN Stack</em></p>
 
