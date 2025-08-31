@@ -75,7 +75,7 @@ Here’s what you provide in the form:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/kishoraman21/ResumAI.git
+   git clone https://github.com/satyamverma01/Resumate.git
    cd ResumAI
 
 2. **Install Server Dependencies**
